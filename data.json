@@ -1,0 +1,12 @@
+{"product":[
+    {
+        "id": 1,
+        "title": "Essence",
+        "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+        "price": "92.90",
+        "rating": 0,
+        "brand": "VERSACE",
+        "thumbnail":"https://images.unsplash.com/photo-1587017539504-67cfbddac569?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHx8",
+        "size":"500ml"
+      }
+] }
